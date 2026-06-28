@@ -1,7 +1,7 @@
 # The Hmars News
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/theHmars/frontend/main/public/assets/fallback.webp" alt="The Hmars News Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/theHmars/frontend/master/public/assets/fallback.webp" alt="The Hmars News Banner" width="100%">
 </div>
 
 Welcome to the official GitHub organization for **The Hmars News**. 
