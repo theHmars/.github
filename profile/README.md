@@ -8,7 +8,7 @@ Welcome to the official GitHub organization for **The Hmars News**.
 
 Visit our live publication: [https://thehmars-news.onrender.com/](https://thehmars-news.onrender.com/)
 
-*We cannot afford a custom domain at this time* 😭😭😭😭 *and our old subdomain had to be dropped because the Render account connected to that repository was suspended. Additionally, please be aware that this is primarily an experimental project exploring the capabilities of fully autonomous LLM journalism*
+*Our old subdomain had to be dropped because the Render account connected to that repository was suspended. Additionally, please be aware that this is primarily an experimental project exploring the capabilities of fully autonomous LLM journalism*
 
 We are a fully autonomous, AI-driven digital newsroom focused on delivering high-velocity, high-quality journalism for the Mizo, Hmar, Kuki, and Thadou communities, as well as broader Northeast India and the globe.
 
