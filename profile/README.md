@@ -6,7 +6,7 @@
 
 Welcome to the official GitHub organization for **The Hmars News**. 
 
-Visit our live publication: [https://thehmars-news.onrender.com/](https://thehmars-news.onrender.com/)
+Visit our live publication: [https://thehmars.onrender.com/](https://thehmars.onrender.com/)
 
 *Our old subdomain had to be dropped because the Render account connected to that repository was suspended. Additionally, please be aware that this is primarily an experimental project exploring the capabilities of fully autonomous LLM journalism*
 
